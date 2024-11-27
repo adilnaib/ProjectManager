@@ -1,4 +1,6 @@
 package com.capgemini.projectmanager.domain;
 
-public class Product {
+public class Project {
+
+
 }
